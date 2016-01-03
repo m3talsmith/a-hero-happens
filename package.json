@@ -1,0 +1,17 @@
+{
+  "name": "a-hero-happens",
+  "version": "0.1.0",
+  "description": "An adventure game where you play the protagonist",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "jest-cli": "^0.8.2"
+  }
+}
